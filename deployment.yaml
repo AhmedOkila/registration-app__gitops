@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: register-app
-          image: ahmedokila/registration-app:1.0.0-17
+          image: ahmedokila/registration-app:1.0.0-18
           ports:
             - containerPort: 8080
